@@ -3,6 +3,10 @@ target/
 project/target/
 project/project/
 
+# Exclude output directories
+tables/
+reports/
+
 # IDE configuration files
 .idea/
 *.iml

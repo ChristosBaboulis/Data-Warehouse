@@ -30,7 +30,7 @@ unzip raceData.zip
 ```
 sbt package
 ```
-##Run:
+## Run:
 ```
 /opt/spark/bin/spark-submit --class "project" --master local[*] target/scala-2.12/myproject_2.12-0.1.0.jar
 >>>>>>> c3a2c4284b1fa6272f7ecf36b84f4d755a179eaf

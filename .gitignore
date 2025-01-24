@@ -1,0 +1,15 @@
+# Build artifacts
+target/
+project/target/
+project/project/
+
+# IDE configuration files
+.idea/
+*.iml
+.bsp/
+
+# OS-specific files
+.DS_Store
+
+# Input files to exclude
+raceData.txt
